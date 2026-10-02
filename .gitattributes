@@ -1,0 +1,8 @@
+# Normalize line endings: LF in the repo, native in the working copy.
+* text=auto
+
+*.cs        text diff=csharp
+*.csproj    text
+*.md        text
+*.slnx      text
+*.gitignore text
