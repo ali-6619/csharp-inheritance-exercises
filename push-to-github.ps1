@@ -5,7 +5,7 @@
     Authenticates the GitHub CLI, then creates a PRIVATE repository and pushes
     this folder to it.
 
-    Run it in YOUR OWN PowerShell window (not through the chat):
+    Run it in PowerShell:
 
         .\push-to-github.ps1
 
